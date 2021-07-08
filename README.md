@@ -1,7 +1,6 @@
 - 👋 Hi! I’m @FraanGH
 - 👀 I’m interested in Coding, K.A.P.P.A
 - 🌱 I’m currently learning [Ingeniería en Programación] (Argentina)
-- 
 - 📫 How to reach me...
   https://www.linkedin.com/in/francisco-gonzalez-8760/
 
