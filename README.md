@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, K.A.P.P.A
 - 🌱 I’m currently learning [Ingeniería en Programación] (Argentina)
 - 📫 How to reach me...
-  https://www.linkedin.com/in/francisco-gonzalez-8760/
+  https://www.linkedin.com/in/feg-0409/
 
 <!---
 FraanGH/FraanGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
